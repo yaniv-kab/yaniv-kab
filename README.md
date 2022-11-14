@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Yaniv Kabariti</h1>
 <h3 align="center">A Full stack developer with 1+ years of experience</h3>
 
-- 🌱 I’m currently learning scaling and big data **algorithms & data structure, fullstack developer**
+- 🌱 I’m currently learning scaling and big data **algorithms & data structure and docker**
 
-- 💬 Ask me about everything **react, vue**
+- 💬 Ask me about everything **node.js, microservices, react etc.**
 
 - My latest projects: 
 - https://github.com/yaniv-kab/Neon-Tech
