@@ -5,7 +5,9 @@
 
 - 💬 Ask me about everything **react, vue**
 
-- To NeonTech Project: https://github.com/yaniv-kab/Neon-Tech
+- My latest projects: 
+- https://github.com/yaniv-kab/Neon-Tech
+- https://github.com/yaniv-kab/discord-clone
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
